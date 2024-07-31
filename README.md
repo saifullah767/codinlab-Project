@@ -23,6 +23,14 @@
 
 - [Live Demo Video Link](https://youtu.be/d8ZdDQn8Sus)
 
+## 🚀 Credentials For Admin <a name="live-demo"></a>
+
+
+- [email](admin@codinlab.com)
+- password: codinlab123
+
+
+
 
 <!-- AUTHORS -->
 
