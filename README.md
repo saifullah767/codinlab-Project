@@ -26,7 +26,7 @@
 ## 🚀 Credentials For Admin <a name="live-demo"></a>
 
 
-- [email](admin@codinlab.com)
+- email: admin@codinlab.com
 - password: codinlab123
 
 
